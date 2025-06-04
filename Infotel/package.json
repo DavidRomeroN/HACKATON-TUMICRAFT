@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@react-three/drei": "^10.1.2",
+    "@react-three/fiber": "^9.1.2",
+    "framer-motion": "^12.16.0",
+    "jszip": "^3.10.1",
+    "three": "^0.177.0"
+  },
+  "devDependencies": {
+    "@types/jszip": "^3.4.0",
+    "@types/three": "^0.177.0"
+  }
+}
